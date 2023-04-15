@@ -5,6 +5,17 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+                            Credits
+
+  The soruce code of this project is an implementation of a methodology 
+that was constructed by John Adeojo, whose work can be found at the 
+following link: https://www.john-adeojo.com/
+
+  Any issues or problems that arise from the source code should not be 
+attributed to this individual and neither he nor the contributors to
+this project shall be held accountable for any technical or fiscal losses
+that arise from the use or distribution of the source code of this project.
+
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
